@@ -1,2 +1,2 @@
-# ori2ee01
+# Diary app
 To create  Diary app
