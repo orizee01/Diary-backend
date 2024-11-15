@@ -1,0 +1,16 @@
+{
+    "development": {
+      "ENV": "DARIES_DB_URL"
+    },
+    "test": {
+      "ENV": "DARIES_TEST_DB_URL"
+    },
+    "production": {
+      "ENV": "DARIES_DB_URL"
+    },
+    "defaultEnv": {
+      "ENV": "DARIES_NODE_ENV"
+    },
+    "sql-file": true
+  }
+  
